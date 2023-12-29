@@ -1,0 +1,3 @@
+object Retrofit {
+    fun configuracao(){}
+}
